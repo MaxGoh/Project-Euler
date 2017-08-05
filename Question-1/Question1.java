@@ -19,7 +19,6 @@ public class Question1 {
 
     public static void main(String[] args) {
 
-
         for (int x = 1; x < 1000; x++) {
             if (isDivisibleBy3Or5(x) == true) {
                 sum += x;
